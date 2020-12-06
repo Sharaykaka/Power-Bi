@@ -23,4 +23,4 @@ Real-Time Updates to Dashboard by providing On Premises Gateway Connectivity
 
 Scheduled data Refresh over specific interval of time.
 
-![](AtliQ%20Technologies/image.png)
+![](image.png)
